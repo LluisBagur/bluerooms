@@ -5,4 +5,4 @@ If you want to try the app on your pc:
     $ git clone https://github.com/LluisBagur/bluerooms.git
     $ cd bluerooms/bluerooms-api
     $ npm i
-    $ node .
+    $ yarn start
